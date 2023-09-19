@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miladashrafi&label=Profile%20views&color=0e75b6&style=flat" alt="miladashrafi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miladashrafi" alt="miladashrafi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miladashrafi&theme=flat" alt="miladashrafi" /></a> </p>
 
 - I'm interested in **.NET, C#, Docker, Kubernetes, Cloud**
 
