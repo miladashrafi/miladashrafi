@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Milad Ashrafi</h1>
-<h3 align="center">Backend Developer (.NET) at Alibaba Travels Co. in Iran</h3>
+<h3 align="center">Technical Lead (Acting) at Alibaba Travels Co. in Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miladashrafi&label=Profile%20views&color=0e75b6&style=flat" alt="miladashrafi" /> </p>
 
