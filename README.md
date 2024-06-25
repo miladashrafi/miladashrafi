@@ -7,9 +7,7 @@
 
 - I'm interested in **.NET, C#, Docker, Kubernetes, Cloud**
 
-- My Portfolio [https://miladashrafi.com](https://miladashrafi.com)
-
-- My Business Blog: [https://binande.ir](https://binande.ir)
+- My Telegram channel: [https://t.me/dotnetmax](https://t.me/dotnetmax)
 
 - 📄 Know about my experiences [https://github.com/miladashrafi/personal/blob/0a24aa71d17b87dd0e9bd67be516302f8b311662/Milad-Ashrafi-Resume.pdf](https://github.com/miladashrafi/personal/blob/0a24aa71d17b87dd0e9bd67be516302f8b311662/Milad-Ashrafi-Resume.pdf)
 
