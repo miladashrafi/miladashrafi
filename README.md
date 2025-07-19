@@ -67,9 +67,9 @@
 </div>
 
 **Architecture & Development:**
-- Designed and implemented microservices architecture serving 10,000+ daily bookings
-- Led migration from monolithic to containerized applications using Docker and Kubernetes
-- Established CI/CD pipelines reducing deployment time by 70% and increasing release frequency
+- Designed and implemented microservices architecture
+- Established CI/CD pipelines reducing deployment time and increasing release frequency
+- Designing and developing some features to speed up business, develop and performance
 
 **Technical Leadership:**
 - Mentored development team of 8 engineers in .NET best practices and clean architecture principles
