@@ -36,7 +36,7 @@
 
 ## 💡 Core Skills & Expertise
 
-<div align="center">
+<div align="left">
 
 ### 🎯 Technical Leadership & Architecture
 **Enterprise System Design** • **Microservices Architecture** • **Performance Optimization** • **Code Quality Standards**
