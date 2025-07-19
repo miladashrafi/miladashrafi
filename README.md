@@ -95,19 +95,16 @@
 ### 🌟 Professional Projects & Contributions
 
 **🎫 Travel Booking Microservices Platform**
-- Built scalable booking system handling 10,000+ daily bookings
+- Developing and improving of scalable booking system handling 10,000+ daily bookings
 - **Tech Stack:** .NET Core, Angular, Docker, Kubernetes, SQL Server, Redis
-- **Impact:** 99.9% uptime, 60% improvement in response times
 
 **🔧 DevOps Automation Framework**
 - Developed CI/CD pipelines and infrastructure automation tools
 - **Tech Stack:** Docker, Kubernetes, GitLab CI, Helm Charts
-- **Impact:** Reduced deployment time from 2 hours to 15 minutes
 
 **📚 .NET Knowledge Sharing Initiative**
-- Created [Telegram channel](https://t.me/dotnetmax) with 5,000+ active developers
+- Created [Telegram channel](https://t.me/dotnetmax)
 - **Content:** Practical tutorials, architecture patterns, best practices
-- **Impact:** Weekly technical discussions and community problem-solving
 
 <p>
   <a href="https://github.com/miladashrafi?tab=repositories&sort=stargazers">
