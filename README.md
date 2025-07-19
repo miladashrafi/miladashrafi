@@ -90,7 +90,7 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<div align="left">
 
 ### 🌟 Professional Projects & Contributions
 
