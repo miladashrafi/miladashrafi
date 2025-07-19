@@ -59,7 +59,7 @@
 
 ## 💼 Current Position
 
-<div align="center">
+<div align="left">
   
 ### 🏢 Technical Lead @ Alibaba Travels Co.
 *Leading technical excellence in Iran's travel technology sector*
