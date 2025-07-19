@@ -17,7 +17,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-**Technical Lead** at **Alibaba Travels Co.** specializing in **.NET ecosystem**, **microservices architecture**, and **cloud-native solutions**. I architect and deliver scalable enterprise applications that handle high-traffic travel booking systems and complex business workflows.
+**Technical Lead** at **Alibaba Travels Co.**. I specialize in **.NET ecosystem**, **microservices architecture**, and **cloud-native solutions**. I architect and deliver scalable enterprise applications that handle high-traffic travel booking systems and complex business workflows.
 
 🔭 **Currently Leading**: Architecture design and implementation for travel technology solutions serving thousands of daily users
 
@@ -95,7 +95,7 @@
 ### 🌟 Professional Projects & Contributions
 
 **🎫 Travel Booking Microservices Platform**
-- Built scalable booking system handling 10,000+ daily transactions
+- Built scalable booking system handling 10,000+ daily bookings
 - **Tech Stack:** .NET Core, Angular, Docker, Kubernetes, SQL Server, Redis
 - **Impact:** 99.9% uptime, 60% improvement in response times
 
